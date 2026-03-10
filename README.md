@@ -1,2 +1,147 @@
 # Python Graduação Superior ADS - Linguagem de Programação
 Atividades realizadas em sala de aula da matéria de Linguagem de Programação  (Python).
+
+<img width="269" height="180" alt="image" src="https://github.com/user-attachments/assets/71db860c-ead9-4687-a1b6-8e4750f4b83b" />
+<img width="387" height="130" alt="image" src="https://github.com/user-attachments/assets/9759ffab-b4ed-4a67-a695-b45ab081877b" />
+<img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/4fc39319-ba96-4fc0-ae00-f766d48cbfea" />
+
+
+### 05/03/2026 - Atividades Proposta
+
+**Q1.** Descreva, em pseudocódigo, um algoritmo para calcular a média de três números.
+```
+
+```
+**Q2.** Descreva um algoritmo que calcule o total a ser pago por um produto, considerando valor unitário e
+quantidade.
+```
+
+```
+**Q3.** Elabore um algoritmo que identifique o menor entre três valores informados.
+```
+
+```
+**Q4.** Explique, com suas próprias palavras, a diferença entre algoritmo, pseudocódigo e código-fonte,
+destacando o papel de cada um no processo de desenvolvimento de software.
+
+<hr>
+
+### 09/03/2026 - Estruturas de Decisão (if / else / elif)
+
+### ***Maior ou Menor de Idade***
+**Q5.** .Crie um programa que solicite a idade do usuário e informe se ele é maior ou menor de idade.
+
+```
+
+```
+### ***Situação Do Aluno*** `
+**Q6.** Crie um programa que solicite a nota de um aluno e informe sua situação: <br>
+ <br>
+* **Aprovado** → nota ≥ 7 <br>
+* **Recuperação** → nota ≥ 5 e < 7 <br>
+* **Reprovado** → nota < 5 <br>
+
+
+```
+
+```
+
+### ***Desconto em Compra***
+**Q7.** Crie um programa que solicite o valor de uma compra e informe: <br>
+<br>
+* **“Desconto disponível”** se o valor for maior ou igual a 100 <br>
+* **“Sem desconto”** caso contrário <br>
+```
+
+```
+<hr>
+
+### 16/03/2026 - Laços de Repetição
+**Q8.** Crie um programa que mostre os números de 1 a 10 utilizando o laço while.
+
+```
+
+```
+**Q9.** Crie um programa que mostre os números de 1 a 10 utilizando o laço for.
+
+```
+
+```
+**Q10.** Crie um programa que solicite 5 números ao usuário, calcule e mostre a soma total dos valores informados.
+.
+
+```
+
+```
+<hr>
+
+### 23/03/2026 - Estruturas de Dados
+**Objetivo** - Praticar o uso de listas, tuplas e dicionários, compreendendo como armazenar e acessar conjuntos de dados em Python.
+
+### ***Lista de Números*** 
+**Q11.** Crie uma lista com 5 números informados pelo usuário e exiba todos os valores armazenados.
+.
+
+```
+
+```
+### **Tupla de Nomes*** 
+**Q12.** Crie uma tupla com 3 nomes e mostre apenas o segundo nome.
+.
+
+```
+
+```
+### **Dicionário de Aluno*** 
+**Q13.** Crie um dicionário com os seguintes dados de um aluno: <br><br>
+* **nome** <br>
+* **idade** <br>
+* **curso** <br>
+
+```
+
+```
+<hr>
+
+### 30/03/2026 - Funções e Procedimentos (Python – Console)
+**Objetivo** - Compreender a criação, utilização e retorno de valores em funções, aplicando boas práticas de organização e clareza do código.
+
+### **Soma de Dois Números*** 
+**Q14.** Crie uma função que receba dois números como parâmetros e retorne a soma entre eles.
+```
+
+```
+### **Verificação de Maioridade*** 
+**Q15.** Crie uma função que receba a idade de uma pessoa e retorne se ela é maior de idade (idade maior ou igual a 18).
+```
+
+```
+### **Cálculo do Total a Pagar*** 
+**Q16.** Crie uma função que receba o valor unitário de um produto e a quantidade comprada, e retorne o valor total a pagar.
+```
+
+```
+<hr> 
+
+### 06/04/2026 - Programação Orientada a Objetos (POO)
+**Q16.** Crie um programa em Python que: <br>
+<br>
+* **Defina uma classe chamada Produto** <br>
+* A classe deve possuir: Atributos: nome e preco <br>
+
+<br>
+                                                   
+
+* **Um método chamado mostrar_dados()** <br>
+* que exiba as informações do produto
+ <br>
+ 
+* **No programa principal:**
+* *Crie um objeto da classe Produto* <br>
+* *Exiba seus dados utilizando o método criado*
+```
+
+```
+
+
+
