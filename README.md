@@ -32,7 +32,11 @@ destacando o papel de cada um no processo de desenvolvimento de software.
 **Q5.** .Crie um programa que solicite a idade do usuário e informe se ele é maior ou menor de idade.
 
 ```
-
+idade = int(input("Digite dua idade,usuário:"))
+    if idade >= 18
+        print("Maior de Idade!")
+    else 
+        print("Menor de idade!")
 ```
 ### ***Situação Do Aluno*** `
 **Q6.** Crie um programa que solicite a nota de um aluno e informe sua situação: <br>
@@ -43,7 +47,12 @@ destacando o papel de cada um no processo de desenvolvimento de software.
 
 
 ```
-
+ if nota >= 7.0:
+        print("Aprovado!")
+    elif nota >= 5.0:
+        print("Recuperação!")
+    else:
+        print("Reprovado!")
 ```
 
 ### ***Desconto em Compra***
@@ -52,7 +61,12 @@ destacando o papel de cada um no processo de desenvolvimento de software.
 * **“Desconto disponível”** se o valor for maior ou igual a 100 <br>
 * **“Sem desconto”** caso contrário <br>
 ```
+compra = int(input("Digite o valor da sua Compra"))
 
+    if compra >= 100
+        print("Desconto Disponível")
+    else
+        print("Desconto Indisponível")
 ```
 <hr>
 
@@ -60,18 +74,28 @@ destacando o papel de cada um no processo de desenvolvimento de software.
 **Q8.** Crie um programa que mostre os números de 1 a 10 utilizando o laço while.
 
 ```
+contador = 1 
 
+    while contador <=10:
+        print (contador)
+        contador + = 1
 ```
 **Q9.** Crie um programa que mostre os números de 1 a 10 utilizando o laço for.
 
 ```
-
+for i in range(1,10):
+    print(i)
 ```
 **Q10.** Crie um programa que solicite 5 números ao usuário, calcule e mostre a soma total dos valores informados.
 .
 
 ```
+soma = 0
 
+for i in range(5):
+    numero = float(input("Digite um número"))
+    soma += numero
+        print("A soma dos números é:",soma)
 ```
 <hr>
 
