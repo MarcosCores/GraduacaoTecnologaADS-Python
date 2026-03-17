@@ -23,7 +23,9 @@ quantidade.
 ```
 **Q4.** Explique, com suas próprias palavras, a diferença entre algoritmo, pseudocódigo e código-fonte,
 destacando o papel de cada um no processo de desenvolvimento de software.
+```
 
+```
 <hr>
 
 ### 09/03/2026 - Estruturas de Decisão (if / else / elif)
