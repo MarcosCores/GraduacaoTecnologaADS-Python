@@ -10,20 +10,77 @@ Atividades realizadas em sala de aula da matéria de Linguagem de Programação 
 
 **Q1.** Descreva, em pseudocódigo, um algoritmo para calcular a média de três números.
 ```
+Algoritmo CalcularMediaTresNumeros
+Var
+    // Declaração das variáveis
+    num1, num2, num3 : Real
+    media : Real
+
+Inicio
+    // Entrada de dados
+    Escreva("Digite o primeiro número: ")
+    Leia(num1)
+    Escreva("Digite o segundo número: ")
+    Leia(num2)
+    Escreva("Digite o terceiro número: ")
+    Leia(num3)
+
+    // Processamento
+    // A soma deve ser realizada antes da divisão, por isso os parênteses
+    media <- (num1 + num2 + num3) / 3
+
+    // Saída de dados
+    Escreva("A média aritmética é: ", media)
+FimAlgoritmo
 
 ```
 **Q2.** Descreva um algoritmo que calcule o total a ser pago por um produto, considerando valor unitário e
 quantidade.
 ```
-
+Algoritmo: CalculaTotalProduto
+Início
+Declarar Variáveis:
+valorUnitario (Real) - Para armazenar o preço por item.
+quantidade (Inteiro/Real) - Para armazenar quantos itens.
+total (Real) - Para armazenar o resultado final.
+Entrada de Dados:
+Escreva "Digite o valor unitário do produto: "
+Leia valorUnitario
+Escreva "Digite a quantidade comprada: "
+Leia quantidade
+Processamento:
+total 
+ valorUnitario * quantidade
+Saída de Dados:
+Escreva "O total a pagar é: R$ ", total
+Fim 
 ```
 **Q3.** Elabore um algoritmo que identifique o menor entre três valores informados.
 ```
+Algoritmo: Encontrar o Menor de Três Valores 
+Início
+Declare as variáveis n1, n2, n3, menor como números reais.
+Escreva "Digite o primeiro número: "
+Leia n1
+Escreva "Digite o segundo número: "
+Leia n2
+Escreva "Digite o terceiro número: "
+Leia n3
+Assuma inicialmente que o menor é o primeiro: menor = n1
+Se n2 < menor então:
+menor = n2 (atualiza o menor para n2)
+Fim Se
+Se n3 < menor então:
+menor = n3 (atualiza o menor para n3, se n3 for ainda menor)
+Fim Se
+Escreva "O menor número é: ", menor
+Fim 
 
 ```
 **Q4.** Explique, com suas próprias palavras, a diferença entre algoritmo, pseudocódigo e código-fonte,
 destacando o papel de cada um no processo de desenvolvimento de software.
 ```
+<img width="651" height="215" alt="image" src="https://github.com/user-attachments/assets/86abf142-69d0-4a8c-9f5e-3b6db0ff458d" />
 
 ```
 <hr>
