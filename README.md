@@ -172,7 +172,8 @@ for i in range(5):
 .
 
 ```
-
+nomes = ["Julia","Marcos", "Mariana"]
+print(nomes[1])
 ```
 ### **Dicionário de Aluno*** 
 **Q13.** Crie um dicionário com os seguintes dados de um aluno: <br><br>
@@ -181,7 +182,13 @@ for i in range(5):
 * **curso** <br>
 
 ```
+aluno = {
+    "nome":"Marcos",
+    "idade": 18,
+    "curso": "ADS"
+}
 
+print (aluno)
 ```
 <hr>
 
