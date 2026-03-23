@@ -80,7 +80,6 @@ Fim
 **Q4.** Explique, com suas próprias palavras, a diferença entre algoritmo, pseudocódigo e código-fonte,
 destacando o papel de cada um no processo de desenvolvimento de software.
 ```
-<img width="651" height="215" alt="image" src="https://github.com/user-attachments/assets/86abf142-69d0-4a8c-9f5e-3b6db0ff458d" />
 
 ```
 <hr>
