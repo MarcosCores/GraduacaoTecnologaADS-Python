@@ -165,6 +165,15 @@ for i in range(5):
 .
 
 ```
+numeros = []
+
+for i in range(5):
+
+    valor = float(input("Digite um número: "))
+    numeros.append(valor)
+    
+print("Os números armazenados são:")
+print(numeros)
 
 ```
 ### **Tupla de Nomes*** 
